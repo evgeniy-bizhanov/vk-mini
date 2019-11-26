@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vk-mini/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-mini/static/js/main.cfd82cbc.chunk.js",
+    "main.js.map": "/vk-mini/static/js/main.cfd82cbc.chunk.js.map",
+    "runtime-main.js": "/vk-mini/static/js/runtime-main.b3098f77.js",
+    "runtime-main.js.map": "/vk-mini/static/js/runtime-main.b3098f77.js.map",
+    "static/css/2.0a8dee31.chunk.css": "/vk-mini/static/css/2.0a8dee31.chunk.css",
+    "static/js/2.0a0448c8.chunk.js": "/vk-mini/static/js/2.0a0448c8.chunk.js",
+    "static/js/2.0a0448c8.chunk.js.map": "/vk-mini/static/js/2.0a0448c8.chunk.js.map",
+    "index.html": "/vk-mini/index.html",
+    "precache-manifest.73673ac7be2e5873e5b4dafb66545e7a.js": "/vk-mini/precache-manifest.73673ac7be2e5873e5b4dafb66545e7a.js",
+    "service-worker.js": "/vk-mini/service-worker.js",
+    "static/css/2.0a8dee31.chunk.css.map": "/vk-mini/static/css/2.0a8dee31.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-mini/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vk-mini/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3098f77.js",
+    "static/css/2.0a8dee31.chunk.css",
+    "static/js/2.0a0448c8.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.cfd82cbc.chunk.js"
+  ]
+}
